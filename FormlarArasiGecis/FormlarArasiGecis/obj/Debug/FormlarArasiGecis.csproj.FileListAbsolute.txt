@@ -1,0 +1,11 @@
+C:\Users\hp\source\repos\FormlarArasiGecis\FormlarArasiGecis\bin\Debug\FormlarArasiGecis.exe.config
+C:\Users\hp\source\repos\FormlarArasiGecis\FormlarArasiGecis\bin\Debug\FormlarArasiGecis.exe
+C:\Users\hp\source\repos\FormlarArasiGecis\FormlarArasiGecis\bin\Debug\FormlarArasiGecis.pdb
+C:\Users\hp\source\repos\FormlarArasiGecis\FormlarArasiGecis\obj\Debug\FormlarArasiGecis.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\FormlarArasiGecis\FormlarArasiGecis\obj\Debug\FormlarArasiGecis.Form1.resources
+C:\Users\hp\source\repos\FormlarArasiGecis\FormlarArasiGecis\obj\Debug\FormlarArasiGecis.Properties.Resources.resources
+C:\Users\hp\source\repos\FormlarArasiGecis\FormlarArasiGecis\obj\Debug\FormlarArasiGecis.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\FormlarArasiGecis\FormlarArasiGecis\obj\Debug\FormlarArasiGecis.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\FormlarArasiGecis\FormlarArasiGecis\obj\Debug\FormlarArasiGecis.exe
+C:\Users\hp\source\repos\FormlarArasiGecis\FormlarArasiGecis\obj\Debug\FormlarArasiGecis.pdb
+C:\Users\hp\source\repos\FormlarArasiGecis\FormlarArasiGecis\obj\Debug\FormlarArasiGecis.Form2.resources

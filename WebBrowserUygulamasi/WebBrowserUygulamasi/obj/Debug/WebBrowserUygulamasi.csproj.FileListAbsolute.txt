@@ -1,0 +1,10 @@
+C:\Users\hp\source\repos\WebBrowserUygulamasi\WebBrowserUygulamasi\bin\Debug\WebBrowserUygulamasi.exe.config
+C:\Users\hp\source\repos\WebBrowserUygulamasi\WebBrowserUygulamasi\bin\Debug\WebBrowserUygulamasi.exe
+C:\Users\hp\source\repos\WebBrowserUygulamasi\WebBrowserUygulamasi\bin\Debug\WebBrowserUygulamasi.pdb
+C:\Users\hp\source\repos\WebBrowserUygulamasi\WebBrowserUygulamasi\obj\Debug\WebBrowserUygulamasi.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\WebBrowserUygulamasi\WebBrowserUygulamasi\obj\Debug\WebBrowserUygulamasi.Form1.resources
+C:\Users\hp\source\repos\WebBrowserUygulamasi\WebBrowserUygulamasi\obj\Debug\WebBrowserUygulamasi.Properties.Resources.resources
+C:\Users\hp\source\repos\WebBrowserUygulamasi\WebBrowserUygulamasi\obj\Debug\WebBrowserUygulamasi.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\WebBrowserUygulamasi\WebBrowserUygulamasi\obj\Debug\WebBrowserUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\WebBrowserUygulamasi\WebBrowserUygulamasi\obj\Debug\WebBrowserUygulamasi.exe
+C:\Users\hp\source\repos\WebBrowserUygulamasi\WebBrowserUygulamasi\obj\Debug\WebBrowserUygulamasi.pdb

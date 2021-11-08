@@ -1,0 +1,10 @@
+C:\Users\hp\source\repos\Örnek Kayit Programi\Örnek Kayit Programi\bin\Debug\Örnek Kayit Programi.exe.config
+C:\Users\hp\source\repos\Örnek Kayit Programi\Örnek Kayit Programi\bin\Debug\Örnek Kayit Programi.exe
+C:\Users\hp\source\repos\Örnek Kayit Programi\Örnek Kayit Programi\bin\Debug\Örnek Kayit Programi.pdb
+C:\Users\hp\source\repos\Örnek Kayit Programi\Örnek Kayit Programi\obj\Debug\Örnek Kayit Programi.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\Örnek Kayit Programi\Örnek Kayit Programi\obj\Debug\Örnek_Kayit_Programi.Form1.resources
+C:\Users\hp\source\repos\Örnek Kayit Programi\Örnek Kayit Programi\obj\Debug\Örnek_Kayit_Programi.Properties.Resources.resources
+C:\Users\hp\source\repos\Örnek Kayit Programi\Örnek Kayit Programi\obj\Debug\Örnek Kayit Programi.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\Örnek Kayit Programi\Örnek Kayit Programi\obj\Debug\Örnek Kayit Programi.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Örnek Kayit Programi\Örnek Kayit Programi\obj\Debug\Örnek Kayit Programi.exe
+C:\Users\hp\source\repos\Örnek Kayit Programi\Örnek Kayit Programi\obj\Debug\Örnek Kayit Programi.pdb

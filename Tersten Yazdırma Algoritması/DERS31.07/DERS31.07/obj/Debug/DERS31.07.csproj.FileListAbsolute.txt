@@ -1,0 +1,10 @@
+C:\Users\hp\source\repos\DERS31.07\DERS31.07\bin\Debug\DERS31.07.exe.config
+C:\Users\hp\source\repos\DERS31.07\DERS31.07\bin\Debug\DERS31.07.exe
+C:\Users\hp\source\repos\DERS31.07\DERS31.07\bin\Debug\DERS31.07.pdb
+C:\Users\hp\source\repos\DERS31.07\DERS31.07\obj\Debug\DERS31.07.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\DERS31.07\DERS31.07\obj\Debug\DERS31._07.Form1.resources
+C:\Users\hp\source\repos\DERS31.07\DERS31.07\obj\Debug\DERS31._07.Properties.Resources.resources
+C:\Users\hp\source\repos\DERS31.07\DERS31.07\obj\Debug\DERS31.07.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\DERS31.07\DERS31.07\obj\Debug\DERS31.07.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\DERS31.07\DERS31.07\obj\Debug\DERS31.07.exe
+C:\Users\hp\source\repos\DERS31.07\DERS31.07\obj\Debug\DERS31.07.pdb

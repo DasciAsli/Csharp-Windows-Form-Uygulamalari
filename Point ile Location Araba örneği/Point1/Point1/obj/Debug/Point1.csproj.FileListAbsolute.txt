@@ -1,0 +1,10 @@
+C:\Users\hp\source\repos\Point1\Point1\bin\Debug\Point1.exe.config
+C:\Users\hp\source\repos\Point1\Point1\bin\Debug\Point1.exe
+C:\Users\hp\source\repos\Point1\Point1\bin\Debug\Point1.pdb
+C:\Users\hp\source\repos\Point1\Point1\obj\Debug\Point1.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\Point1\Point1\obj\Debug\Point1.Form1.resources
+C:\Users\hp\source\repos\Point1\Point1\obj\Debug\Point1.Properties.Resources.resources
+C:\Users\hp\source\repos\Point1\Point1\obj\Debug\Point1.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\Point1\Point1\obj\Debug\Point1.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Point1\Point1\obj\Debug\Point1.exe
+C:\Users\hp\source\repos\Point1\Point1\obj\Debug\Point1.pdb

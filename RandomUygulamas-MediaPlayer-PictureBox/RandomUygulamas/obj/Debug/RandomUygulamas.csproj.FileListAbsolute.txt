@@ -1,0 +1,15 @@
+C:\Users\hp\source\repos\RandomUygulamas\RandomUygulamas\bin\Debug\RandomUygulamas.exe.config
+C:\Users\hp\source\repos\RandomUygulamas\RandomUygulamas\bin\Debug\RandomUygulamas.exe
+C:\Users\hp\source\repos\RandomUygulamas\RandomUygulamas\bin\Debug\RandomUygulamas.pdb
+C:\Users\hp\source\repos\RandomUygulamas\RandomUygulamas\obj\Debug\RandomUygulamas.Form1.resources
+C:\Users\hp\source\repos\RandomUygulamas\RandomUygulamas\obj\Debug\RandomUygulamas.Properties.Resources.resources
+C:\Users\hp\source\repos\RandomUygulamas\RandomUygulamas\obj\Debug\RandomUygulamas.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\RandomUygulamas\RandomUygulamas\obj\Debug\RandomUygulamas.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\RandomUygulamas\RandomUygulamas\obj\Debug\RandomUygulamas.exe
+C:\Users\hp\source\repos\RandomUygulamas\RandomUygulamas\obj\Debug\RandomUygulamas.pdb
+C:\Users\hp\source\repos\RandomUygulamas\RandomUygulamas\bin\Debug\Interop.WMPLib.dll
+C:\Users\hp\source\repos\RandomUygulamas\RandomUygulamas\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\hp\source\repos\RandomUygulamas\RandomUygulamas\obj\Debug\RandomUygulamas.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\RandomUygulamas\RandomUygulamas\obj\Debug\Interop.WMPLib.dll
+C:\Users\hp\source\repos\RandomUygulamas\RandomUygulamas\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\hp\source\repos\RandomUygulamas\RandomUygulamas\obj\Debug\RandomUygulamas.csproj.ResolveComReference.cache

@@ -1,0 +1,9 @@
+C:\Users\hp\source\repos\Algoritma Örnek-3\Algoritma Örnek-3\bin\Debug\Algoritma Örnek-3.exe.config
+C:\Users\hp\source\repos\Algoritma Örnek-3\Algoritma Örnek-3\bin\Debug\Algoritma Örnek-3.exe
+C:\Users\hp\source\repos\Algoritma Örnek-3\Algoritma Örnek-3\bin\Debug\Algoritma Örnek-3.pdb
+C:\Users\hp\source\repos\Algoritma Örnek-3\Algoritma Örnek-3\obj\Debug\Algoritma_Örnek_3.Form1.resources
+C:\Users\hp\source\repos\Algoritma Örnek-3\Algoritma Örnek-3\obj\Debug\Algoritma_Örnek_3.Properties.Resources.resources
+C:\Users\hp\source\repos\Algoritma Örnek-3\Algoritma Örnek-3\obj\Debug\Algoritma Örnek-3.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\Algoritma Örnek-3\Algoritma Örnek-3\obj\Debug\Algoritma Örnek-3.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Algoritma Örnek-3\Algoritma Örnek-3\obj\Debug\Algoritma Örnek-3.exe
+C:\Users\hp\source\repos\Algoritma Örnek-3\Algoritma Örnek-3\obj\Debug\Algoritma Örnek-3.pdb

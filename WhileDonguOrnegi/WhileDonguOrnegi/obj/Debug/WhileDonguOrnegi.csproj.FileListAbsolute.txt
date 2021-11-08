@@ -1,0 +1,10 @@
+C:\Users\hp\source\repos\WhileDonguOrnegi\WhileDonguOrnegi\bin\Debug\WhileDonguOrnegi.exe.config
+C:\Users\hp\source\repos\WhileDonguOrnegi\WhileDonguOrnegi\bin\Debug\WhileDonguOrnegi.exe
+C:\Users\hp\source\repos\WhileDonguOrnegi\WhileDonguOrnegi\bin\Debug\WhileDonguOrnegi.pdb
+C:\Users\hp\source\repos\WhileDonguOrnegi\WhileDonguOrnegi\obj\Debug\WhileDonguOrnegi.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\WhileDonguOrnegi\WhileDonguOrnegi\obj\Debug\WhileDonguOrnegi.Form1.resources
+C:\Users\hp\source\repos\WhileDonguOrnegi\WhileDonguOrnegi\obj\Debug\WhileDonguOrnegi.Properties.Resources.resources
+C:\Users\hp\source\repos\WhileDonguOrnegi\WhileDonguOrnegi\obj\Debug\WhileDonguOrnegi.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\WhileDonguOrnegi\WhileDonguOrnegi\obj\Debug\WhileDonguOrnegi.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\WhileDonguOrnegi\WhileDonguOrnegi\obj\Debug\WhileDonguOrnegi.exe
+C:\Users\hp\source\repos\WhileDonguOrnegi\WhileDonguOrnegi\obj\Debug\WhileDonguOrnegi.pdb

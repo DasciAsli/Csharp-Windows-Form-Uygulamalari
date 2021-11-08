@@ -1,0 +1,15 @@
+C:\Users\hp\source\repos\RandomLigOyunu\RandomLigOyunu\bin\Debug\RandomLigOyunu.exe.config
+C:\Users\hp\source\repos\RandomLigOyunu\RandomLigOyunu\bin\Debug\RandomLigOyunu.exe
+C:\Users\hp\source\repos\RandomLigOyunu\RandomLigOyunu\bin\Debug\RandomLigOyunu.pdb
+C:\Users\hp\source\repos\RandomLigOyunu\RandomLigOyunu\obj\Debug\RandomLigOyunu.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\RandomLigOyunu\RandomLigOyunu\obj\Debug\RandomLigOyunu.Form1.resources
+C:\Users\hp\source\repos\RandomLigOyunu\RandomLigOyunu\obj\Debug\RandomLigOyunu.Properties.Resources.resources
+C:\Users\hp\source\repos\RandomLigOyunu\RandomLigOyunu\obj\Debug\RandomLigOyunu.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\RandomLigOyunu\RandomLigOyunu\obj\Debug\RandomLigOyunu.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\RandomLigOyunu\RandomLigOyunu\obj\Debug\RandomLigOyunu.exe
+C:\Users\hp\source\repos\RandomLigOyunu\RandomLigOyunu\obj\Debug\RandomLigOyunu.pdb
+C:\Users\hp\source\repos\RandomLigOyunu\RandomLigOyunu\bin\Debug\Interop.WMPLib.dll
+C:\Users\hp\source\repos\RandomLigOyunu\RandomLigOyunu\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\hp\source\repos\RandomLigOyunu\RandomLigOyunu\obj\Debug\Interop.WMPLib.dll
+C:\Users\hp\source\repos\RandomLigOyunu\RandomLigOyunu\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\hp\source\repos\RandomLigOyunu\RandomLigOyunu\obj\Debug\RandomLigOyunu.csproj.ResolveComReference.cache

@@ -1,0 +1,20 @@
+C:\Users\hp\source\repos\OkulKayitProgrami\OkulKayitProgrami\bin\Debug\OkulKayitProgrami.exe.config
+C:\Users\hp\source\repos\OkulKayitProgrami\OkulKayitProgrami\bin\Debug\OkulKayitProgrami.exe
+C:\Users\hp\source\repos\OkulKayitProgrami\OkulKayitProgrami\bin\Debug\OkulKayitProgrami.pdb
+C:\Users\hp\source\repos\OkulKayitProgrami\OkulKayitProgrami\obj\Debug\OkulKayitProgrami.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\OkulKayitProgrami\OkulKayitProgrami\obj\Debug\OkulKayitProgrami.OgrenciFormu.resources
+C:\Users\hp\source\repos\OkulKayitProgrami\OkulKayitProgrami\obj\Debug\OkulKayitProgrami.Properties.Resources.resources
+C:\Users\hp\source\repos\OkulKayitProgrami\OkulKayitProgrami\obj\Debug\OkulKayitProgrami.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\OkulKayitProgrami\OkulKayitProgrami\obj\Debug\OkulKayitProgrami.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\OkulKayitProgrami\OkulKayitProgrami\obj\Debug\OkulKayitProgrami.exe
+C:\Users\hp\source\repos\OkulKayitProgrami\OkulKayitProgrami\obj\Debug\OkulKayitProgrami.pdb
+C:\Users\hp\Desktop\Benim Örneklerim\İçerisinde Sqlde görüntüle-kaydet-sil komutları olan bir örnek var\OkulKayitProgrami\OkulKayitProgrami\bin\Debug\OkulKayitProgrami.exe.config
+C:\Users\hp\Desktop\Benim Örneklerim\İçerisinde Sqlde görüntüle-kaydet-sil komutları olan bir örnek var\OkulKayitProgrami\OkulKayitProgrami\bin\Debug\OkulKayitProgrami.exe
+C:\Users\hp\Desktop\Benim Örneklerim\İçerisinde Sqlde görüntüle-kaydet-sil komutları olan bir örnek var\OkulKayitProgrami\OkulKayitProgrami\bin\Debug\OkulKayitProgrami.pdb
+C:\Users\hp\Desktop\Benim Örneklerim\İçerisinde Sqlde görüntüle-kaydet-sil komutları olan bir örnek var\OkulKayitProgrami\OkulKayitProgrami\obj\Debug\OkulKayitProgrami.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Benim Örneklerim\İçerisinde Sqlde görüntüle-kaydet-sil komutları olan bir örnek var\OkulKayitProgrami\OkulKayitProgrami\obj\Debug\OkulKayitProgrami.OgrenciFormu.resources
+C:\Users\hp\Desktop\Benim Örneklerim\İçerisinde Sqlde görüntüle-kaydet-sil komutları olan bir örnek var\OkulKayitProgrami\OkulKayitProgrami\obj\Debug\OkulKayitProgrami.Properties.Resources.resources
+C:\Users\hp\Desktop\Benim Örneklerim\İçerisinde Sqlde görüntüle-kaydet-sil komutları olan bir örnek var\OkulKayitProgrami\OkulKayitProgrami\obj\Debug\OkulKayitProgrami.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\Benim Örneklerim\İçerisinde Sqlde görüntüle-kaydet-sil komutları olan bir örnek var\OkulKayitProgrami\OkulKayitProgrami\obj\Debug\OkulKayitProgrami.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Benim Örneklerim\İçerisinde Sqlde görüntüle-kaydet-sil komutları olan bir örnek var\OkulKayitProgrami\OkulKayitProgrami\obj\Debug\OkulKayitProgrami.exe
+C:\Users\hp\Desktop\Benim Örneklerim\İçerisinde Sqlde görüntüle-kaydet-sil komutları olan bir örnek var\OkulKayitProgrami\OkulKayitProgrami\obj\Debug\OkulKayitProgrami.pdb

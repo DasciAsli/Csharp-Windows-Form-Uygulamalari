@@ -1,0 +1,10 @@
+C:\Users\hp\source\repos\SınavDegerlendirmeUygulamasi\SınavDegerlendirmeUygulamasi\bin\Debug\SınavDegerlendirmeUygulamasi.exe.config
+C:\Users\hp\source\repos\SınavDegerlendirmeUygulamasi\SınavDegerlendirmeUygulamasi\bin\Debug\SınavDegerlendirmeUygulamasi.exe
+C:\Users\hp\source\repos\SınavDegerlendirmeUygulamasi\SınavDegerlendirmeUygulamasi\bin\Debug\SınavDegerlendirmeUygulamasi.pdb
+C:\Users\hp\source\repos\SınavDegerlendirmeUygulamasi\SınavDegerlendirmeUygulamasi\obj\Debug\SınavDegerlendirmeUygulamasi.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\SınavDegerlendirmeUygulamasi\SınavDegerlendirmeUygulamasi\obj\Debug\SınavDegerlendirmeUygulamasi.Form1.resources
+C:\Users\hp\source\repos\SınavDegerlendirmeUygulamasi\SınavDegerlendirmeUygulamasi\obj\Debug\SınavDegerlendirmeUygulamasi.Properties.Resources.resources
+C:\Users\hp\source\repos\SınavDegerlendirmeUygulamasi\SınavDegerlendirmeUygulamasi\obj\Debug\SınavDegerlendirmeUygulamasi.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\SınavDegerlendirmeUygulamasi\SınavDegerlendirmeUygulamasi\obj\Debug\SınavDegerlendirmeUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\SınavDegerlendirmeUygulamasi\SınavDegerlendirmeUygulamasi\obj\Debug\SınavDegerlendirmeUygulamasi.exe
+C:\Users\hp\source\repos\SınavDegerlendirmeUygulamasi\SınavDegerlendirmeUygulamasi\obj\Debug\SınavDegerlendirmeUygulamasi.pdb

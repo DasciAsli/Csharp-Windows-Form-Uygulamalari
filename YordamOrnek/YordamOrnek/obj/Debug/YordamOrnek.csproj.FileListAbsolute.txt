@@ -1,0 +1,10 @@
+C:\Users\hp\source\repos\YordamOrnek\YordamOrnek\bin\Debug\YordamOrnek.exe.config
+C:\Users\hp\source\repos\YordamOrnek\YordamOrnek\bin\Debug\YordamOrnek.exe
+C:\Users\hp\source\repos\YordamOrnek\YordamOrnek\bin\Debug\YordamOrnek.pdb
+C:\Users\hp\source\repos\YordamOrnek\YordamOrnek\obj\Debug\YordamOrnek.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\YordamOrnek\YordamOrnek\obj\Debug\YordamOrnek.Form1.resources
+C:\Users\hp\source\repos\YordamOrnek\YordamOrnek\obj\Debug\YordamOrnek.Properties.Resources.resources
+C:\Users\hp\source\repos\YordamOrnek\YordamOrnek\obj\Debug\YordamOrnek.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\YordamOrnek\YordamOrnek\obj\Debug\YordamOrnek.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\YordamOrnek\YordamOrnek\obj\Debug\YordamOrnek.exe
+C:\Users\hp\source\repos\YordamOrnek\YordamOrnek\obj\Debug\YordamOrnek.pdb

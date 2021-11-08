@@ -1,0 +1,20 @@
+C:\Users\hp\source\repos\PizzaSiparisProgrami\PizzaSiparisProgrami\bin\Debug\PizzaSiparisProgrami.exe.config
+C:\Users\hp\source\repos\PizzaSiparisProgrami\PizzaSiparisProgrami\bin\Debug\PizzaSiparisProgrami.exe
+C:\Users\hp\source\repos\PizzaSiparisProgrami\PizzaSiparisProgrami\bin\Debug\PizzaSiparisProgrami.pdb
+C:\Users\hp\source\repos\PizzaSiparisProgrami\PizzaSiparisProgrami\obj\Debug\PizzaSiparisProgrami.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\PizzaSiparisProgrami\PizzaSiparisProgrami\obj\Debug\PizzaSiparisProgrami.Form1.resources
+C:\Users\hp\source\repos\PizzaSiparisProgrami\PizzaSiparisProgrami\obj\Debug\PizzaSiparisProgrami.Properties.Resources.resources
+C:\Users\hp\source\repos\PizzaSiparisProgrami\PizzaSiparisProgrami\obj\Debug\PizzaSiparisProgrami.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\PizzaSiparisProgrami\PizzaSiparisProgrami\obj\Debug\PizzaSiparisProgrami.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\PizzaSiparisProgrami\PizzaSiparisProgrami\obj\Debug\PizzaSiparisProgrami.exe
+C:\Users\hp\source\repos\PizzaSiparisProgrami\PizzaSiparisProgrami\obj\Debug\PizzaSiparisProgrami.pdb
+C:\Users\hp\Desktop\Benim Örneklerim\PizzaSiparisProgrami\PizzaSiparisProgrami\obj\Debug\PizzaSiparisProgrami.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Benim Örneklerim\PizzaSiparisProgrami\PizzaSiparisProgrami\obj\Debug\PizzaSiparisProgrami.Form1.resources
+C:\Users\hp\Desktop\Benim Örneklerim\PizzaSiparisProgrami\PizzaSiparisProgrami\obj\Debug\PizzaSiparisProgrami.Properties.Resources.resources
+C:\Users\hp\Desktop\Benim Örneklerim\PizzaSiparisProgrami\PizzaSiparisProgrami\obj\Debug\PizzaSiparisProgrami.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\Benim Örneklerim\PizzaSiparisProgrami\PizzaSiparisProgrami\obj\Debug\PizzaSiparisProgrami.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Benim Örneklerim\PizzaSiparisProgrami\PizzaSiparisProgrami\obj\Debug\PizzaSiparisProgrami.exe
+C:\Users\hp\Desktop\Benim Örneklerim\PizzaSiparisProgrami\PizzaSiparisProgrami\obj\Debug\PizzaSiparisProgrami.pdb
+C:\Users\hp\Desktop\Benim Örneklerim\PizzaSiparisProgrami\PizzaSiparisProgrami\bin\Debug\PizzaSiparisProgrami.exe.config
+C:\Users\hp\Desktop\Benim Örneklerim\PizzaSiparisProgrami\PizzaSiparisProgrami\bin\Debug\PizzaSiparisProgrami.exe
+C:\Users\hp\Desktop\Benim Örneklerim\PizzaSiparisProgrami\PizzaSiparisProgrami\bin\Debug\PizzaSiparisProgrami.pdb

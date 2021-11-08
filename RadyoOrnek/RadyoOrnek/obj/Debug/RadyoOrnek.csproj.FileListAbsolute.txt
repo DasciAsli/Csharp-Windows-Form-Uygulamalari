@@ -1,0 +1,15 @@
+C:\Users\hp\source\repos\RadyoOrnek\RadyoOrnek\bin\Debug\RadyoOrnek.exe.config
+C:\Users\hp\source\repos\RadyoOrnek\RadyoOrnek\bin\Debug\RadyoOrnek.exe
+C:\Users\hp\source\repos\RadyoOrnek\RadyoOrnek\bin\Debug\RadyoOrnek.pdb
+C:\Users\hp\source\repos\RadyoOrnek\RadyoOrnek\bin\Debug\Interop.WMPLib.dll
+C:\Users\hp\source\repos\RadyoOrnek\RadyoOrnek\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\hp\source\repos\RadyoOrnek\RadyoOrnek\obj\Debug\Interop.WMPLib.dll
+C:\Users\hp\source\repos\RadyoOrnek\RadyoOrnek\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\hp\source\repos\RadyoOrnek\RadyoOrnek\obj\Debug\RadyoOrnek.csproj.ResolveComReference.cache
+C:\Users\hp\source\repos\RadyoOrnek\RadyoOrnek\obj\Debug\RadyoOrnek.Form1.resources
+C:\Users\hp\source\repos\RadyoOrnek\RadyoOrnek\obj\Debug\RadyoOrnek.Properties.Resources.resources
+C:\Users\hp\source\repos\RadyoOrnek\RadyoOrnek\obj\Debug\RadyoOrnek.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\RadyoOrnek\RadyoOrnek\obj\Debug\RadyoOrnek.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\RadyoOrnek\RadyoOrnek\obj\Debug\RadyoOrnek.exe
+C:\Users\hp\source\repos\RadyoOrnek\RadyoOrnek\obj\Debug\RadyoOrnek.pdb
+C:\Users\hp\source\repos\RadyoOrnek\RadyoOrnek\obj\Debug\RadyoOrnek.csproj.AssemblyReference.cache

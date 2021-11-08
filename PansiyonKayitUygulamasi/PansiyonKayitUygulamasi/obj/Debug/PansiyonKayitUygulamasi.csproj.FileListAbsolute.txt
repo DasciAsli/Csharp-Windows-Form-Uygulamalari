@@ -1,0 +1,11 @@
+C:\Users\hp\source\repos\PansiyonKayitUygulamasi\PansiyonKayitUygulamasi\bin\Debug\PansiyonKayitUygulamasi.exe.config
+C:\Users\hp\source\repos\PansiyonKayitUygulamasi\PansiyonKayitUygulamasi\bin\Debug\PansiyonKayitUygulamasi.exe
+C:\Users\hp\source\repos\PansiyonKayitUygulamasi\PansiyonKayitUygulamasi\bin\Debug\PansiyonKayitUygulamasi.pdb
+C:\Users\hp\source\repos\PansiyonKayitUygulamasi\PansiyonKayitUygulamasi\obj\Debug\PansiyonKayitUygulamasi.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\PansiyonKayitUygulamasi\PansiyonKayitUygulamasi\obj\Debug\PansiyonKayitUygulamasi.Form1.resources
+C:\Users\hp\source\repos\PansiyonKayitUygulamasi\PansiyonKayitUygulamasi\obj\Debug\PansiyonKayitUygulamasi.Form2.resources
+C:\Users\hp\source\repos\PansiyonKayitUygulamasi\PansiyonKayitUygulamasi\obj\Debug\PansiyonKayitUygulamasi.Properties.Resources.resources
+C:\Users\hp\source\repos\PansiyonKayitUygulamasi\PansiyonKayitUygulamasi\obj\Debug\PansiyonKayitUygulamasi.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\PansiyonKayitUygulamasi\PansiyonKayitUygulamasi\obj\Debug\PansiyonKayitUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\PansiyonKayitUygulamasi\PansiyonKayitUygulamasi\obj\Debug\PansiyonKayitUygulamasi.exe
+C:\Users\hp\source\repos\PansiyonKayitUygulamasi\PansiyonKayitUygulamasi\obj\Debug\PansiyonKayitUygulamasi.pdb

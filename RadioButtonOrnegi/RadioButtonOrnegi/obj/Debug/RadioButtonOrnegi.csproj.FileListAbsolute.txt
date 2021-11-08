@@ -1,0 +1,20 @@
+C:\Users\hp\source\repos\RadioButtonOrnegi\RadioButtonOrnegi\bin\Debug\RadioButtonOrnegi.exe.config
+C:\Users\hp\source\repos\RadioButtonOrnegi\RadioButtonOrnegi\bin\Debug\RadioButtonOrnegi.exe
+C:\Users\hp\source\repos\RadioButtonOrnegi\RadioButtonOrnegi\bin\Debug\RadioButtonOrnegi.pdb
+C:\Users\hp\source\repos\RadioButtonOrnegi\RadioButtonOrnegi\obj\Debug\RadioButtonOrnegi.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\RadioButtonOrnegi\RadioButtonOrnegi\obj\Debug\RadioButtonOrnegi.Form1.resources
+C:\Users\hp\source\repos\RadioButtonOrnegi\RadioButtonOrnegi\obj\Debug\RadioButtonOrnegi.Properties.Resources.resources
+C:\Users\hp\source\repos\RadioButtonOrnegi\RadioButtonOrnegi\obj\Debug\RadioButtonOrnegi.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\RadioButtonOrnegi\RadioButtonOrnegi\obj\Debug\RadioButtonOrnegi.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\RadioButtonOrnegi\RadioButtonOrnegi\obj\Debug\RadioButtonOrnegi.exe
+C:\Users\hp\source\repos\RadioButtonOrnegi\RadioButtonOrnegi\obj\Debug\RadioButtonOrnegi.pdb
+C:\Users\hp\Desktop\Benim Örneklerim\RadioButtonOrnegi\RadioButtonOrnegi\bin\Debug\RadioButtonOrnegi.exe.config
+C:\Users\hp\Desktop\Benim Örneklerim\RadioButtonOrnegi\RadioButtonOrnegi\bin\Debug\RadioButtonOrnegi.exe
+C:\Users\hp\Desktop\Benim Örneklerim\RadioButtonOrnegi\RadioButtonOrnegi\bin\Debug\RadioButtonOrnegi.pdb
+C:\Users\hp\Desktop\Benim Örneklerim\RadioButtonOrnegi\RadioButtonOrnegi\obj\Debug\RadioButtonOrnegi.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Benim Örneklerim\RadioButtonOrnegi\RadioButtonOrnegi\obj\Debug\RadioButtonOrnegi.Form1.resources
+C:\Users\hp\Desktop\Benim Örneklerim\RadioButtonOrnegi\RadioButtonOrnegi\obj\Debug\RadioButtonOrnegi.Properties.Resources.resources
+C:\Users\hp\Desktop\Benim Örneklerim\RadioButtonOrnegi\RadioButtonOrnegi\obj\Debug\RadioButtonOrnegi.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\Benim Örneklerim\RadioButtonOrnegi\RadioButtonOrnegi\obj\Debug\RadioButtonOrnegi.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Benim Örneklerim\RadioButtonOrnegi\RadioButtonOrnegi\obj\Debug\RadioButtonOrnegi.exe
+C:\Users\hp\Desktop\Benim Örneklerim\RadioButtonOrnegi\RadioButtonOrnegi\obj\Debug\RadioButtonOrnegi.pdb

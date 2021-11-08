@@ -1,0 +1,10 @@
+C:\Users\hp\source\repos\BilgiYarismasiProgrami\BilgiYarismasiProgrami\bin\Debug\BilgiYarismasiProgrami.exe.config
+C:\Users\hp\source\repos\BilgiYarismasiProgrami\BilgiYarismasiProgrami\bin\Debug\BilgiYarismasiProgrami.exe
+C:\Users\hp\source\repos\BilgiYarismasiProgrami\BilgiYarismasiProgrami\bin\Debug\BilgiYarismasiProgrami.pdb
+C:\Users\hp\source\repos\BilgiYarismasiProgrami\BilgiYarismasiProgrami\obj\Debug\BilgiYarismasiProgrami.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\BilgiYarismasiProgrami\BilgiYarismasiProgrami\obj\Debug\BilgiYarismasiProgrami.Form1.resources
+C:\Users\hp\source\repos\BilgiYarismasiProgrami\BilgiYarismasiProgrami\obj\Debug\BilgiYarismasiProgrami.Properties.Resources.resources
+C:\Users\hp\source\repos\BilgiYarismasiProgrami\BilgiYarismasiProgrami\obj\Debug\BilgiYarismasiProgrami.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\BilgiYarismasiProgrami\BilgiYarismasiProgrami\obj\Debug\BilgiYarismasiProgrami.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\BilgiYarismasiProgrami\BilgiYarismasiProgrami\obj\Debug\BilgiYarismasiProgrami.exe
+C:\Users\hp\source\repos\BilgiYarismasiProgrami\BilgiYarismasiProgrami\obj\Debug\BilgiYarismasiProgrami.pdb

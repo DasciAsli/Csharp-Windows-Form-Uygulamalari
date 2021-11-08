@@ -1,0 +1,10 @@
+C:\Users\hp\source\repos\PointİleAsansörUygulamasi\PointİleAsansörUygulamasi\bin\Debug\PointİleAsansörUygulamasi.exe.config
+C:\Users\hp\source\repos\PointİleAsansörUygulamasi\PointİleAsansörUygulamasi\bin\Debug\PointİleAsansörUygulamasi.exe
+C:\Users\hp\source\repos\PointİleAsansörUygulamasi\PointİleAsansörUygulamasi\bin\Debug\PointİleAsansörUygulamasi.pdb
+C:\Users\hp\source\repos\PointİleAsansörUygulamasi\PointİleAsansörUygulamasi\obj\Debug\PointİleAsansörUygulamasi.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\PointİleAsansörUygulamasi\PointİleAsansörUygulamasi\obj\Debug\PointİleAsansörUygulamasi.Form1.resources
+C:\Users\hp\source\repos\PointİleAsansörUygulamasi\PointİleAsansörUygulamasi\obj\Debug\PointİleAsansörUygulamasi.Properties.Resources.resources
+C:\Users\hp\source\repos\PointİleAsansörUygulamasi\PointİleAsansörUygulamasi\obj\Debug\PointİleAsansörUygulamasi.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\PointİleAsansörUygulamasi\PointİleAsansörUygulamasi\obj\Debug\PointİleAsansörUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\PointİleAsansörUygulamasi\PointİleAsansörUygulamasi\obj\Debug\PointİleAsansörUygulamasi.exe
+C:\Users\hp\source\repos\PointİleAsansörUygulamasi\PointİleAsansörUygulamasi\obj\Debug\PointİleAsansörUygulamasi.pdb

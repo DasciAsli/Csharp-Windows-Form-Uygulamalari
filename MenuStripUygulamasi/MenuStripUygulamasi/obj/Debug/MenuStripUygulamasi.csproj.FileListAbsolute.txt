@@ -1,0 +1,19 @@
+C:\Users\hp\source\repos\MenuStripUygulamasi\MenuStripUygulamasi\obj\Debug\MenuStripUygulamasi.Form1.resources
+C:\Users\hp\source\repos\MenuStripUygulamasi\MenuStripUygulamasi\obj\Debug\MenuStripUygulamasi.Properties.Resources.resources
+C:\Users\hp\source\repos\MenuStripUygulamasi\MenuStripUygulamasi\obj\Debug\MenuStripUygulamasi.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\MenuStripUygulamasi\MenuStripUygulamasi\obj\Debug\MenuStripUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\MenuStripUygulamasi\MenuStripUygulamasi\bin\Debug\MenuStripUygulamasi.exe.config
+C:\Users\hp\source\repos\MenuStripUygulamasi\MenuStripUygulamasi\bin\Debug\MenuStripUygulamasi.exe
+C:\Users\hp\source\repos\MenuStripUygulamasi\MenuStripUygulamasi\bin\Debug\MenuStripUygulamasi.pdb
+C:\Users\hp\source\repos\MenuStripUygulamasi\MenuStripUygulamasi\obj\Debug\MenuStripUygulamasi.exe
+C:\Users\hp\source\repos\MenuStripUygulamasi\MenuStripUygulamasi\obj\Debug\MenuStripUygulamasi.pdb
+C:\Users\hp\Desktop\Benim Örneklerim\MenuStripUygulamasi\MenuStripUygulamasi\bin\Debug\MenuStripUygulamasi.exe.config
+C:\Users\hp\Desktop\Benim Örneklerim\MenuStripUygulamasi\MenuStripUygulamasi\bin\Debug\MenuStripUygulamasi.exe
+C:\Users\hp\Desktop\Benim Örneklerim\MenuStripUygulamasi\MenuStripUygulamasi\bin\Debug\MenuStripUygulamasi.pdb
+C:\Users\hp\Desktop\Benim Örneklerim\MenuStripUygulamasi\MenuStripUygulamasi\obj\Debug\MenuStripUygulamasi.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Benim Örneklerim\MenuStripUygulamasi\MenuStripUygulamasi\obj\Debug\MenuStripUygulamasi.Form1.resources
+C:\Users\hp\Desktop\Benim Örneklerim\MenuStripUygulamasi\MenuStripUygulamasi\obj\Debug\MenuStripUygulamasi.Properties.Resources.resources
+C:\Users\hp\Desktop\Benim Örneklerim\MenuStripUygulamasi\MenuStripUygulamasi\obj\Debug\MenuStripUygulamasi.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\Benim Örneklerim\MenuStripUygulamasi\MenuStripUygulamasi\obj\Debug\MenuStripUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Benim Örneklerim\MenuStripUygulamasi\MenuStripUygulamasi\obj\Debug\MenuStripUygulamasi.exe
+C:\Users\hp\Desktop\Benim Örneklerim\MenuStripUygulamasi\MenuStripUygulamasi\obj\Debug\MenuStripUygulamasi.pdb
