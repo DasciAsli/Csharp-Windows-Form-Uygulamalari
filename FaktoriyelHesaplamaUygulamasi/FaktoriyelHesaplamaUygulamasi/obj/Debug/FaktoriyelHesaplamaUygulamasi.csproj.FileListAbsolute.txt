@@ -7,3 +7,13 @@ C:\Users\hp\source\repos\FaktoriyelHesaplamaUygulamasi\FaktoriyelHesaplamaUygula
 C:\Users\hp\source\repos\FaktoriyelHesaplamaUygulamasi\FaktoriyelHesaplamaUygulamasi\obj\Debug\FaktoriyelHesaplamaUygulamasi.csproj.CoreCompileInputs.cache
 C:\Users\hp\source\repos\FaktoriyelHesaplamaUygulamasi\FaktoriyelHesaplamaUygulamasi\obj\Debug\FaktoriyelHesaplamaUygulamasi.exe
 C:\Users\hp\source\repos\FaktoriyelHesaplamaUygulamasi\FaktoriyelHesaplamaUygulamasi\obj\Debug\FaktoriyelHesaplamaUygulamasi.pdb
+C:\Users\hp\Desktop\Csharp-Windows-Form-Uygulamalari\FaktoriyelHesaplamaUygulamasi\FaktoriyelHesaplamaUygulamasi\bin\Debug\FaktoriyelHesaplamaUygulamasi.exe.config
+C:\Users\hp\Desktop\Csharp-Windows-Form-Uygulamalari\FaktoriyelHesaplamaUygulamasi\FaktoriyelHesaplamaUygulamasi\bin\Debug\FaktoriyelHesaplamaUygulamasi.exe
+C:\Users\hp\Desktop\Csharp-Windows-Form-Uygulamalari\FaktoriyelHesaplamaUygulamasi\FaktoriyelHesaplamaUygulamasi\bin\Debug\FaktoriyelHesaplamaUygulamasi.pdb
+C:\Users\hp\Desktop\Csharp-Windows-Form-Uygulamalari\FaktoriyelHesaplamaUygulamasi\FaktoriyelHesaplamaUygulamasi\obj\Debug\FaktoriyelHesaplamaUygulamasi.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Csharp-Windows-Form-Uygulamalari\FaktoriyelHesaplamaUygulamasi\FaktoriyelHesaplamaUygulamasi\obj\Debug\FaktoriyelHesaplamaUygulamasi.Form1.resources
+C:\Users\hp\Desktop\Csharp-Windows-Form-Uygulamalari\FaktoriyelHesaplamaUygulamasi\FaktoriyelHesaplamaUygulamasi\obj\Debug\FaktoriyelHesaplamaUygulamasi.Properties.Resources.resources
+C:\Users\hp\Desktop\Csharp-Windows-Form-Uygulamalari\FaktoriyelHesaplamaUygulamasi\FaktoriyelHesaplamaUygulamasi\obj\Debug\FaktoriyelHesaplamaUygulamasi.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\Csharp-Windows-Form-Uygulamalari\FaktoriyelHesaplamaUygulamasi\FaktoriyelHesaplamaUygulamasi\obj\Debug\FaktoriyelHesaplamaUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Csharp-Windows-Form-Uygulamalari\FaktoriyelHesaplamaUygulamasi\FaktoriyelHesaplamaUygulamasi\obj\Debug\FaktoriyelHesaplamaUygulamasi.exe
+C:\Users\hp\Desktop\Csharp-Windows-Form-Uygulamalari\FaktoriyelHesaplamaUygulamasi\FaktoriyelHesaplamaUygulamasi\obj\Debug\FaktoriyelHesaplamaUygulamasi.pdb

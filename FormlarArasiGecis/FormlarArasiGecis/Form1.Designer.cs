@@ -61,7 +61,7 @@ namespace FormlarArasiGecis
             this.textBox1.Size = new System.Drawing.Size(256, 30);
             this.textBox1.TabIndex = 1;
             this.textBox1.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-            this.textBox1.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
+          
             // 
             // textBox2
             // 
@@ -73,7 +73,7 @@ namespace FormlarArasiGecis
             this.textBox2.TabIndex = 3;
             this.textBox2.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             this.textBox2.UseSystemPasswordChar = true;
-            this.textBox2.TextChanged += new System.EventHandler(this.textBox2_TextChanged);
+           
             // 
             // pictureBox2
             // 

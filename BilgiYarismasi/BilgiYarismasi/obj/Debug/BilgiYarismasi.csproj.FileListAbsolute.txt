@@ -8,3 +8,13 @@ C:\Users\hp\source\repos\BilgiYarismasi\BilgiYarismasi\obj\Debug\BilgiYarismasi.
 C:\Users\hp\source\repos\BilgiYarismasi\BilgiYarismasi\obj\Debug\BilgiYarismasi.csproj.CoreCompileInputs.cache
 C:\Users\hp\source\repos\BilgiYarismasi\BilgiYarismasi\obj\Debug\BilgiYarismasi.exe
 C:\Users\hp\source\repos\BilgiYarismasi\BilgiYarismasi\obj\Debug\BilgiYarismasi.pdb
+C:\Users\hp\Desktop\Csharp-Windows-Form-Uygulamalari\BilgiYarismasi\BilgiYarismasi\bin\Debug\BilgiYarismasi.exe.config
+C:\Users\hp\Desktop\Csharp-Windows-Form-Uygulamalari\BilgiYarismasi\BilgiYarismasi\bin\Debug\BilgiYarismasi.exe
+C:\Users\hp\Desktop\Csharp-Windows-Form-Uygulamalari\BilgiYarismasi\BilgiYarismasi\bin\Debug\BilgiYarismasi.pdb
+C:\Users\hp\Desktop\Csharp-Windows-Form-Uygulamalari\BilgiYarismasi\BilgiYarismasi\obj\Debug\BilgiYarismasi.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Csharp-Windows-Form-Uygulamalari\BilgiYarismasi\BilgiYarismasi\obj\Debug\BilgiYarismasi.Form1.resources
+C:\Users\hp\Desktop\Csharp-Windows-Form-Uygulamalari\BilgiYarismasi\BilgiYarismasi\obj\Debug\BilgiYarismasi.Properties.Resources.resources
+C:\Users\hp\Desktop\Csharp-Windows-Form-Uygulamalari\BilgiYarismasi\BilgiYarismasi\obj\Debug\BilgiYarismasi.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\Csharp-Windows-Form-Uygulamalari\BilgiYarismasi\BilgiYarismasi\obj\Debug\BilgiYarismasi.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Csharp-Windows-Form-Uygulamalari\BilgiYarismasi\BilgiYarismasi\obj\Debug\BilgiYarismasi.exe
+C:\Users\hp\Desktop\Csharp-Windows-Form-Uygulamalari\BilgiYarismasi\BilgiYarismasi\obj\Debug\BilgiYarismasi.pdb

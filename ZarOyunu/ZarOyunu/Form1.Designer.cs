@@ -252,7 +252,7 @@ namespace ZarOyunu
             this.groupBox3.TabIndex = 2;
             this.groupBox3.TabStop = false;
             this.groupBox3.Text = "Puan Tablosu";
-            this.groupBox3.Enter += new System.EventHandler(this.groupBox3_Enter);
+           
             // 
             // label15
             // 
@@ -283,7 +283,7 @@ namespace ZarOyunu
             this.label17.Size = new System.Drawing.Size(29, 31);
             this.label17.TabIndex = 1;
             this.label17.Text = "0";
-            this.label17.Click += new System.EventHandler(this.label17_Click);
+          
             // 
             // label18
             // 

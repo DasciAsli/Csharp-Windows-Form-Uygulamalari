@@ -41,9 +41,6 @@ namespace FormlarArasiGecis
             }
         }
 
-        private void Form2_Load(object sender, EventArgs e)
-        {
-
-        }
+       
     }
 }

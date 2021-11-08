@@ -8,3 +8,13 @@ C:\Users\hp\source\repos\BlackJack21\BlackJack21\obj\Debug\BlackJack21.csproj.Ge
 C:\Users\hp\source\repos\BlackJack21\BlackJack21\obj\Debug\BlackJack21.csproj.CoreCompileInputs.cache
 C:\Users\hp\source\repos\BlackJack21\BlackJack21\obj\Debug\BlackJack21.exe
 C:\Users\hp\source\repos\BlackJack21\BlackJack21\obj\Debug\BlackJack21.pdb
+C:\Users\hp\Desktop\Csharp-Windows-Form-Uygulamalari\BlackJack21\BlackJack21\bin\Debug\BlackJack21.exe.config
+C:\Users\hp\Desktop\Csharp-Windows-Form-Uygulamalari\BlackJack21\BlackJack21\bin\Debug\BlackJack21.exe
+C:\Users\hp\Desktop\Csharp-Windows-Form-Uygulamalari\BlackJack21\BlackJack21\bin\Debug\BlackJack21.pdb
+C:\Users\hp\Desktop\Csharp-Windows-Form-Uygulamalari\BlackJack21\BlackJack21\obj\Debug\BlackJack21.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Csharp-Windows-Form-Uygulamalari\BlackJack21\BlackJack21\obj\Debug\BlackJack21.Form1.resources
+C:\Users\hp\Desktop\Csharp-Windows-Form-Uygulamalari\BlackJack21\BlackJack21\obj\Debug\BlackJack21.Properties.Resources.resources
+C:\Users\hp\Desktop\Csharp-Windows-Form-Uygulamalari\BlackJack21\BlackJack21\obj\Debug\BlackJack21.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\Csharp-Windows-Form-Uygulamalari\BlackJack21\BlackJack21\obj\Debug\BlackJack21.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Csharp-Windows-Form-Uygulamalari\BlackJack21\BlackJack21\obj\Debug\BlackJack21.exe
+C:\Users\hp\Desktop\Csharp-Windows-Form-Uygulamalari\BlackJack21\BlackJack21\obj\Debug\BlackJack21.pdb

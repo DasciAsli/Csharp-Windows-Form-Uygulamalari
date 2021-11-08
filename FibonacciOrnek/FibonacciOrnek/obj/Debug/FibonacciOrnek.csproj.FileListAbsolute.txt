@@ -8,3 +8,13 @@ C:\Users\hp\source\repos\FibonacciOrnek\FibonacciOrnek\obj\Debug\FibonacciOrnek.
 C:\Users\hp\source\repos\FibonacciOrnek\FibonacciOrnek\obj\Debug\FibonacciOrnek.csproj.CoreCompileInputs.cache
 C:\Users\hp\source\repos\FibonacciOrnek\FibonacciOrnek\obj\Debug\FibonacciOrnek.exe
 C:\Users\hp\source\repos\FibonacciOrnek\FibonacciOrnek\obj\Debug\FibonacciOrnek.pdb
+C:\Users\hp\Desktop\Csharp-Windows-Form-Uygulamalari\FibonacciOrnek\FibonacciOrnek\bin\Debug\FibonacciOrnek.exe.config
+C:\Users\hp\Desktop\Csharp-Windows-Form-Uygulamalari\FibonacciOrnek\FibonacciOrnek\bin\Debug\FibonacciOrnek.exe
+C:\Users\hp\Desktop\Csharp-Windows-Form-Uygulamalari\FibonacciOrnek\FibonacciOrnek\bin\Debug\FibonacciOrnek.pdb
+C:\Users\hp\Desktop\Csharp-Windows-Form-Uygulamalari\FibonacciOrnek\FibonacciOrnek\obj\Debug\FibonacciOrnek.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Csharp-Windows-Form-Uygulamalari\FibonacciOrnek\FibonacciOrnek\obj\Debug\FibonacciOrnek.Form1.resources
+C:\Users\hp\Desktop\Csharp-Windows-Form-Uygulamalari\FibonacciOrnek\FibonacciOrnek\obj\Debug\FibonacciOrnek.Properties.Resources.resources
+C:\Users\hp\Desktop\Csharp-Windows-Form-Uygulamalari\FibonacciOrnek\FibonacciOrnek\obj\Debug\FibonacciOrnek.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\Csharp-Windows-Form-Uygulamalari\FibonacciOrnek\FibonacciOrnek\obj\Debug\FibonacciOrnek.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Csharp-Windows-Form-Uygulamalari\FibonacciOrnek\FibonacciOrnek\obj\Debug\FibonacciOrnek.exe
+C:\Users\hp\Desktop\Csharp-Windows-Form-Uygulamalari\FibonacciOrnek\FibonacciOrnek\obj\Debug\FibonacciOrnek.pdb

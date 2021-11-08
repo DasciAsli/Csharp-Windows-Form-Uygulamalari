@@ -82,7 +82,7 @@ namespace FormlarArasiGecis
             this.Margin = new System.Windows.Forms.Padding(6, 6, 6, 6);
             this.Name = "Form2";
             this.Text = "RenkFormu";
-            this.Load += new System.EventHandler(this.Form2_Load);
+           
             this.ResumeLayout(false);
             this.PerformLayout();
 
